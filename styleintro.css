@@ -1,0 +1,140 @@
+.image{
+    width: 100%;
+    
+}
+body{
+    margin: 0px;
+}
+.top{
+    font-size: 3.5em;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    font-family:'sacramento'
+}
+.aayush{
+    margin: 70px;
+    position: absolute;
+    left: 100px;
+    top: 930px;
+    height: 200px;
+    width: 200px;
+}
+.dot1{
+    font-size: 2em;
+    color: #cbf8f3;
+}
+.t4{
+    text-align: center;
+}
+.t1{
+    font-size: 3em;
+    font-family:'sacramento';
+    color: rgb(14, 23, 48);
+position: absolute;
+top: 300px;
+right: 300px;
+}
+.t2{
+    font-size: 2em;
+    margin: 0px;
+    font-family: 'sacramento';
+    position:absolute;
+    top:400px;
+    right: 300px;
+}
+.middle{
+   
+    
+    margin-top: 0px;
+    height: 600px;
+    background-color: rgb(238, 238, 238);
+}
+.info{
+    font-size: 2em;
+    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    left: 400px;
+    color:rgb(70, 75, 88);
+    font-family: 'sacramento';
+}
+.about{
+    color: steelblue;
+    font-size: 2.7em;
+    font-family: 'sacramento';
+    margin: 0px;
+}
+.skill{
+    position: absolute;
+    top: 1500px;
+    right: 100px;
+    font-size: 3.5em;
+    font-family: 'sacramento';
+    color: teal;
+}
+.bottom{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 900px;
+    background-color: rgb(250, 235, 250);
+}
+.lap{
+    position: absolute;
+    top: 1750px;
+    left: 500px;
+    height: 250px;
+    width: 250px;
+}
+.hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ul{
+    color: steelblue;
+    position: absolute;
+    top: 1800px;
+    font-size: 1.7em;
+    font-family: 'sacramento';
+    margin: 0px;
+}
+.btn {
+    margin: 0px;
+    position: absolute;
+    right: 550px;
+    
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #bedb5e 0px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #07e3eb;
+    background-image: -webkit-linear-gradient(top, #07e3eb, #ededed);
+    background-image: -moz-linear-gradient(top, #07e3eb, #ededed);
+    background-image: -ms-linear-gradient(top, #07e3eb, #ededed);
+    background-image: -o-linear-gradient(top, #07e3eb, #ededed);
+    background-image: linear-gradient(to bottom, #07e3eb, #ededed);
+    text-decoration: none;
+  }
+  .copy{
+      position: absolute;
+      top: 2300px;
+      left: 550px;
+  }
+  br{
+      border-radius: 0px;
+  }
